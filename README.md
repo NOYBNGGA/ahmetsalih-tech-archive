@@ -51,3 +51,15 @@ Bu depo sadece kod değil—üretim disiplini, teknik mizah ve sürdürülebilir
 ## 🔗 Related Resources | İlgili Kaynaklar
 
 👉 [VM Setup Keywords Repository](https://github.com/ahmetsalih353-arch/vm-setup-keywords.md)
+---
+
+## 🔗 Backlink Alanı | Backlink Zone
+
+Bu arşiv aşağıdaki platformlarda referans olarak kullanılmaktadır:  
+This archive is referenced in the following platforms:
+
+- 📘 [Dev.to Profilim](https://dev.to/ahmetsalih353)
+
+> Eğer bu arşive dış bağlantı verdiyseniz, issue açarak paylaşabilirsiniz.  
+> If you’ve linked this archive externally, feel free to open an issue and share it.
+

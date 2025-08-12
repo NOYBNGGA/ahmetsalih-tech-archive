@@ -1,11 +1,11 @@
-# ahmetsalih353-arc
-A personal GitHub showcase for technical production, documentation, and community-driven growth.Teknik üretim, belgeleme ve topluluk katkısı için kişisel GitHub vitrini.
-# ahmetsalih353-arc
+# ahmetsalih-tech-archive
 
-🎯 A personal GitHub showcase for technical production, documentation, and community-driven growth.  
-🎯 Teknik üretim, belgeleme ve topluluk katkısı için kişisel GitHub vitrini.
+A personal GitHub showcase for technical production, documentation, and community-driven growth.  
+Teknik üretim, belgeleme ve topluluk katkısı için kişisel GitHub vitrini.
 
----
+## 🌐 Backlink Zone  
+- [GitHub Profilim](https://github.com/ahmetsalih353-arch)  
+- [Dev.to Yazılarım](https://dev.to/ahmetsalih353)  
 
 ## 🔍 Focus Areas | Odak Alanlarım
 

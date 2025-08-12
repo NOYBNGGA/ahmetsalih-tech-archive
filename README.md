@@ -46,3 +46,8 @@ Bu depo, teknik yolculuğumu belgelemek ve toplulukla paylaşmak için oluşturu
 
 This repository is not just code—it’s a reflection of production discipline, technical humor, and sustainable growth.  
 Bu depo sadece kod değil—üretim disiplini, teknik mizah ve sürdürülebilir büyümenin bir yansımasıdır.
+---
+
+## 🔗 Related Resources | İlgili Kaynaklar
+
+👉 [VM Setup Keywords Repository](https://github.com/ahmetsalih353-arch/vm-setup-keywords.md)

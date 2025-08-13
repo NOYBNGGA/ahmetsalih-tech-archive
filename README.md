@@ -1,3 +1,6 @@
+![Ahmet Salih - Teknik Üretici Rozeti](https://github.com/ahmetsalih353-arch/ahmetsalih-tech-archive/blob/main/Rozet.png?raw=true)
+
+
 # ahmetsalih-tech-archive | Teknik Arşiv & Dijital Kimlik
 
 📁 A bilingual GitHub archive focused on real-world terminal testing, VM setups, ClamAV & X11 documentation, and sustainable digital identity building.  
